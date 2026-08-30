@@ -11,6 +11,18 @@ Email Me 👉 ✉️ dhruvkrishnsharma@gmail.com For Collaboration/Project or An
 📫 How to reach me: dhruvkrishnsharma@gmail.com
 😄 Pronouns: Dhruv
 ⚡ Fun fact: I Love Tech and Tech Love Me
+
+## 🧠 DSA & Problem Solving
+
+<p align="left">
+  <a href="https://leetcode.com/u/Dhruv_Sharma80/">
+    <img src="https://img.shields.io/badge/LeetCode-DSA%20%26%20Problem%20Solving-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://takeuforward.org/profile/DhruvSharma">
+    <img src="https://img.shields.io/badge/TUF%2B-DSA%20Learning-blue?style=for-the-badge" />
+  </a>
+</p>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_dhruv.sharma.1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruv-sharma2902) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Vlogsby_dhruv) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhruvkrishnsharma@gmail.com) 
 
