@@ -15,11 +15,11 @@ Email Me 👉 ✉️ dhruvkrishnsharma@gmail.com For Collaboration/Project or An
 ## 🧠 DSA & Problem Solving
 
 <p align="left">
-  <a href="https://leetcode.com/u/Dhruv_Sharma80/">
-    <img src="https://img.shields.io/badge/LeetCode-DSA%20%26%20Problem%20Solving-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
   <a href="https://takeuforward.org/profile/DhruvSharma">
     <img src="https://img.shields.io/badge/TUF%2B-DSA%20Learning-blue?style=for-the-badge" />
+  </a>
+  <a href="https://leetcode.com/u/Dhruv_Sharma80/">
+    <img src="https://img.shields.io/badge/LeetCode-DSA%20%26%20Problem%20Solving-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
